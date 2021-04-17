@@ -1,0 +1,301 @@
+body{
+    margin:0 px;
+    padding:0 px;
+    font-family:"RobotoSlab";
+    font-size:20 px;
+}
+
+/******************* The First Section Starts Here ******************/
+.navbar{
+    color:white !important;
+    height:100px;
+    border-bottom:.1px wheat solid;
+}
+.first .navbar ul > li > a{
+    font-size:1.4rem;
+}
+.first-text{
+   position:relative;
+   top:300px;
+   left:100px;
+}
+.first-text h1{
+    font-size:4rem;
+}
+.first-text p{
+    font-size:1.5rem;
+}
+
+.upp{
+    position:relative;
+    bottom:900px;
+    /* left:150px; */
+    color:white;
+    background-color:rgba(5,5,5,.5);
+    height:900px;
+    width:100%;
+}
+.second-text{
+    position:relative;
+    top:400px;
+}
+.second-text h1{
+    font-size:4rem;
+}
+.second-text p{
+    font-size:1.5rem;
+}
+
+.upp1{
+   position:relative;
+   bottom:900px;
+   color:white;
+   background-color:rgba(5,5,5,.5);
+   height:900px;
+   width:100%;
+}
+.upp2{
+    position:relative;
+    bottom:900px;
+    color:white;
+    background-color:rgba(5,5,5,.5);
+    height:900px;
+    width:100%;
+}
+.third-text{
+    position:relative;
+    top:400px; 
+}
+.third-text h1{
+    font-size:4rem;
+}
+.third-text p{
+    font-size:1.5rem;
+}
+.first-text > form{
+    position:relative;
+    top:50px;
+}
+/******************* The First Section Ends Here ******************/
+
+
+
+
+
+/******************* The Second Section Starts Here ******************/
+.second{
+    position:relative;
+    bottom:800px;
+}
+.second-2{
+    position:relative;
+    top:50px;
+}
+.second-2 h2{
+    font-size:3rem;
+}
+.second-2 p{
+    font-size:1.5rem;
+}
+/******************* The Second Section Ends Here ******************/
+
+
+
+
+/******************* The Therd Section Starts Here ******************/
+.thierd{
+    background-color:#f8f8f8;
+    height:350px;
+    position:relative;
+    bottom:800px;
+    text-align:center;
+}
+.thierd section div div > div{
+    width:120px;
+    height:120px;
+    background-color:transparent;
+    border:3px wheat solid;
+    position:relative;
+    left:60px;
+}
+.thierd section div div > p{
+    font-size:1rem;
+}
+/******************* The Therd Section Ends Here ******************/
+
+
+
+
+
+/******************* The Fourth Section Starts Here ******************/
+.fourth{
+    height:500px;
+    position:relative;
+    bottom:700px;
+    left:70px;
+}
+.fourth section h2{
+    font-size:3rem;
+}
+.fourth .paragraph4{
+    font-size:1rem;
+}
+/******************* The Fourth Section Ends Here ******************/
+
+
+
+
+/******************* The Fifth Section Starts Here ******************/
+.fifth{
+    background-image:url('photos/ilya-pavlov-87472-600x420.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:300px;
+    background-position:top center;
+    background-attachment: fixed;
+    position:relative;
+    bottom:650px;
+}
+.fifth1{
+    background-color:rgba(52,149,228,.9);
+    height:300px;
+}
+.fifth2{
+    position:relative;
+    /*left:70px;*/
+    top:50px;
+    text-align:center;
+}
+/******************* The Fifth Section Ends Here ******************/
+
+
+
+
+/******************* The Sixth Section Starts Here ******************/
+.sexth{
+    height:100vh;
+    position:relative;
+    bottom:400px;
+}
+.sexth1{
+    position:relative;
+    bottom:60px;
+}
+.sexth1 h1{
+    font-size:3rem;
+}
+.sexth2{
+    position:relative;
+    left:20px;
+}
+.sexth2 > div{
+    width:30% !important;
+    height:200px;
+} 
+.sexth2 > div > p{
+    font-size:1rem;
+}
+/******************* The Sixth Section Ends Here ******************/
+
+
+
+
+/******************* The Seventh Section Starts Here ******************/
+.seventh{
+    position:relative;
+    bottom:400px;
+    background-color:#F8F8F8;
+    height:700px;
+    text-align:center;
+}
+.seventh section{
+    position:relative;
+    top:100px;
+}
+/******************* The Seventh Section Ends Here ******************/
+
+
+
+
+/******************* The Eigth Section Starts Here ******************/
+.eight{
+    position:relative;
+    bottom:300px;
+}
+.eight1{
+    position:relative;
+    bottom:50px;
+}
+.card{
+    position:relative;
+    bottom:50px;
+    justify-content: space-around;
+}
+.card-body{
+   padding-bottom:20px;
+}
+.card-body h3{
+    font-size:1.5rem;
+}
+.card-body h5{
+    font-size:1rem;
+}
+.eight3{
+    text-align:center;
+}
+.MY_PORTO :hover{
+    background-color:rgba(5,5,5,.5);
+    color:white;
+}
+/******************* The Eigth Section Ends Here ******************/
+
+
+
+/******************* The Ninth Section Starts Here ******************/
+.Ninth{
+    background-color:#218FE6;
+    height:250px;
+    position:relative;
+    bottom:0px;
+}
+.Ninth section{
+    position:relative;
+    top:50px;
+}
+/******************* The Ninth Section Ends Here ******************/
+
+
+
+
+
+/******************* Ten Section Starts Here ******************/
+.ten{
+    background-color:#1B1B1B;
+    position:relative;
+    bottom:0px;
+    height:490px;
+}
+.Contact_Details{
+    background-image:url('photos/webp.webp');
+    height:50%;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+/******************* Ten Section Ends Here ******************/
+
+
+
+
+/******************* Final Section Starts Here ******************/
+.final{
+    position:relative;
+    bottom:0px;
+    margin:0px;
+    padding:0px;
+    background-color: #151515;
+    height:40px;
+}
+/******************* Final Section Ends Here ******************/
+
+
+
